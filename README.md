@@ -1,2 +1,2 @@
 #Subreddit New Tab
-Displays random images from a subreddit when opening a new tab.
+A Firefox extension that displays random images from a subreddit when opening a new tab.
