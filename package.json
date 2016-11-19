@@ -1,0 +1,15 @@
+{
+  "title": "Subreddit New Tab",
+  "name": "sr-tab",
+  "version": "0.0.1",
+  "description": "Displays random images from a subreddit (default /r/EarthPorn) when opening a new tab",
+  "main": "app.js",
+  "author": "Vincent Cuenca",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
